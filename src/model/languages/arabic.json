@@ -1,0 +1,225 @@
+{
+    "translation":{
+        "SAR":"ريال",
+        "ButtonText":"تسجيل الدخول",
+        "NoOrderfound":"لم يتم العثور على طلب",
+       
+        "1.CategoryScreen":"CategoryScreen",
+
+        "DeliveryAddress":"عنوان التوصيل",
+        "MumbaiIndia":"Mumbai India",
+        "Categorie":"الفئات",
+        
+        "2.DrawerSection":"DrawerSection",
+
+        "MyOrders":"طلباتي",
+        "Payments":"مدفوعات",
+        "Address":"عنوان",
+        "Favourite":"مفضل",
+        "Notification":"تنبيهات",
+        "Subscription":"إشتراك",
+        "SignIn":"دخول",
+        "LogOut":"تسجيل خروج",
+
+        "Categories":"فئات",
+
+
+        "3.HomeScreen":"HomeScreen",
+        
+        "TopRestaurantsForYou":"الأفضل",
+        "ClientsChoice":"توصيات العملاء",
+        "Filter":"بحث",
+        "All":"الكل",
+        "ViewAll":"عرض الكل",
+        "Recommended":"موصى به",
+        "PromoCodes":"أكواد خصم",
+        "Search":"موصى",
+        
+        "3.RestaurantDestailScreen":"RestaurantDestailScreen",
+        "RelatedItems":"العتاصر المشابهة",
+        "CHECKOUT":"دفع",
+        "Item":"عنصر",
+        "DeliveryTime":"وقت التوصيل",
+
+        "4.CartScreen":"CartScreen",
+        
+        "ItemTotal":"إجمالي العناصر",
+        "SubTotal":"الإجمالي الفرعي",
+        "Delivery":"التوصيل",
+        "Tax":"الضريبة",
+        "Discount":"خصم",
+        "Total":"الإجمالي",
+        "AddDeliveryInstruction":"تعليمات التوصيل",
+        "GoToSubSubcription":"إشتراك",
+        "Scedule":"جدولة",
+        "OrderNow":"اطلب الان",
+        "Removeallcart":"تفريغ العربة",
+        "Subscribe":" الأصناف",
+        "addDescription":"إضافة اشتراك...",
+        "addPromocode":"إضافة كود خصم",
+        "SceduleOrder":"جدولة الطلب",
+        "NetTotal":"الإجمالي",
+        "VAT":"ضريبة القيمة المضافة",
+        "WithoutTax":"بدون ضريبة",
+
+
+
+
+
+
+
+        "5.CartScreen":"CartScreen",
+        
+        "Apply":"تطبيق",
+        "Applied":"تم التطبيق",
+        "EnterCouponCode":"أدخل كود الخصم",
+
+        
+
+        "5.PaymentScreen":"PaymentScreen",
+        
+        "YourSaveCards":"البطاقات المحفوظة",
+        "Paytm":"Paytm",
+        "PhonePay":"PhonePay",
+        "GooglePay":"GooglePay",
+        "ApplePay":"ApplePay",
+        "Pay":"ادفع",
+        "LinkAccount":"حساب الارتباط",
+        "CreditCard":"مدى/فيزا",
+        "NameOnCard":"الإسم على البطاقة",
+        "CardNumber":"رقم البطاقة",
+        "ExpirationDate":"تاريخ الانتهاء",
+        "SecurityCode":"الرقم السري",
+        "ChooseAPaymentMethod":"فضلا, إختر وسيلة الدفع",
+        "paymentChooseDiscription":"لن يتم الخصم حتى تقوم بمراجعة الطلب في الخطوة التالية.",
+        "cashOnDelivery":"نقدا عند التوصيل",
+        "Proceed":"استمرار",
+
+
+
+        "6.AddressScreen":"AddressScreen",
+        
+        "Addresss":"عناوين",
+        "FavAddress":"العنوان المفضل",
+        "AddNewAddress":"اضف عنوان جديد",
+
+        "7.AddAddress":"AddAddress",
+        
+        "PersonalDetail":"بيانات شخصية",
+        "FirstName":"الإسم الأول",
+        "LastName":"الإسم الأخير",
+        "MobileNumber":"رقم الهاتف المحمول",
+        "Email":"البريد الإلكتروني",
+        "AddressDetail":"تفاصيل العنوان",
+        "City":"المدينة",
+        "State":"الولاية",
+        "AppartmentOrOfficeNumber":" شقة أو مكتب",
+        "PinCode":"الرقم السري",
+        "Done":"تم",
+        "HouseNo.":"رقم المنزل ، اسم الشارع",
+        "StreetName":"اسم الشارع",
+        "EnterFullAdress":"فضلا, أكتب العنوان كاملا",
+        "PleaseEnterValidFullAddress":"فضلا, اكتب عنوان صحيح",
+
+
+
+        "8.Subscription":"Subscription",
+        "Weekly":"أسبوعي",
+        "Monthly":"شهري",
+        "Yearly":"شنوي",
+        "SubscribeNow":"إشترك الآن",
+        
+        
+        "9.ChangeAdress":"ChangeAdress",
+        
+        "CurrentLocation":"الموقع الحالي",
+        "AddToFavourite":"أضف للمفضلة",
+        "PlaceOrder":"ضع الطلب",
+
+        "10.Header":"Header",
+        "AllRestaurant":"جميع المطاعم",
+        "Restaurant":"مطعم",
+        "ProductDetails":"تفاصيل المنتج",
+        "Cart":"سلة",
+        "ChangeAddress":"غير العنوان",
+        "MyOrder":"طلبي",
+        "OrderDetail":"تفاصيل الطلب",
+        "Payment":"دفع",
+        "Edit":"تعديل",
+        "Favourites":"المفضلة",
+
+
+        "10.LoginScreen":"LoginScreen",
+        
+        "Login":"دخول",
+        "ChooseYourLanguage":"إختر لغة الواجهة",
+        "PhoneOrEmail":"هاتف محمول أو بريد الكتروني",
+        "YourPassword":"كلمة المرور",
+        "ForgotPassword":"نسيت كلمة المرور؟",
+        "LogIn":"دخول",
+        "SignUp":"حساب جديد",
+
+        "11.SignUpScreen":"SignUpScreen",
+        "Password":"كلمة المرور",
+        "ConfirmPassword":"تأكيد كلمة المرور",
+        "SignUpText":"حساب جديد",
+        "Passwordnotmatch":"كلمات المرور مختلفة",
+        "Please check inputs":"فضلا, تأكد من البيانات",
+        "Please enter valid name":"فضلا, اكتب اسم صحيح",
+        "Please enter valid number":"فضلا, اكتب رقم صحيح",
+        "Please enter valid email":"فضلا, اكتب بريد الكتروني صحيح",
+        "Password must be Alphanumeric and 8 characters long":"يجب أن تكون كلمة المرور حروف وأرقام وطولها 8 أحرف",
+
+        "12.OrderDetail":"OrderDetail",
+        "ORDER":"طلب",
+        "BillDetail":"تفاصيل الفاتورة",
+        "ItemTotald":"إجمالي العناصر",
+        "Subtotal":"الإجمالي الفرعي",
+        "Deliveryd":"التوصيل",
+        "Taxd":"الضريبة",
+        "Discountd":"خصم",
+        "Totald":"الإجمالي",
+        "Home":"الرئيسة",
+        "orderIs":"الطلب هو",
+        "TrackOrder":" تتبع الطلب",
+        "ArrivingInSomeMinutes":"التجهيز في 30 دقيقة",
+        "Reorder":"إعادة ترتيب",
+
+        "13.paymentDoneScreen":"paymentDoneScreen",
+        "OrderCompletedSuccessfully":"إتمام الطلب بنجاح",
+
+        "13.subscriptionScreen":"subscriptionScreen",
+        "daily":"يومي",
+        "weekly":"أسبوعي",
+        "monthly":"شهري",
+        "startDate":"بدء الاشتراك",
+        "endDate":"نهاية الإشتراك",
+        "subscribe":"الإشتراك",
+
+
+        "13.subscriptionList":"subscriptionList",
+        "subscriptions":"الإشتراكات",
+       
+        "14.showAlert":"المنتج",
+        "doYouWantToLogin":"هل ترغب في الدخول؟",
+        "loginRequired":"يجب تسجيل الدخول",
+
+
+        "15.AddressMapScreen" : "AddressMapScreen",
+        "ConfirmLocation":"تأكيد الموقع",
+        "selectDeliveryLocation":  "فضلا, إختر موقع التوصيل",
+        
+        "16.Buttons":"Buttons",
+        "Add":"أضف",
+
+        "17.SearchResultScreen" :"SearchResult",
+        "SearchResult" :"نتيجة البحث"
+
+
+
+
+
+
+       
+    }
+    }

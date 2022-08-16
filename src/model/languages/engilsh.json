@@ -1,0 +1,240 @@
+
+
+{
+    "translation":{
+     
+
+        "SAR":"SAR",
+        "ButtonText":"تسجيل الدخول",
+        "NoOrderfound":"No Order found",
+
+
+        "1.CategoryScreen":"CategoryScreen",
+
+        "DeliveryAddress":"Delivery address",
+        "MumbaiIndia":"Mumbai India",
+        "Categorie":"Categories",
+
+        "2.DrawerSection":"DrawerSection",
+
+        "MyOrders":"My Orders",
+        "Payments":"Payments",
+        "Address":"Address",
+        "Favourite":"Favourite",
+        "Notification":"Notification",
+        "Subscription":"Subscription",
+        "SignIn":"SignIn",
+        "LogOut":"Log Out",
+
+        "Categories":"Categories",
+
+        "3.HomeScreen":"HomeScreen",
+        
+        "TopRestaurantsForYou":"Top Restaurants For You",
+        "ClientsChoice":"Clients Choice",
+        "Filter":"Filter",
+        "All":"All",
+        "ViewAll":"View All",
+        "Recommended":"Recommended",
+        "PromoCodes":"PromoCodes",
+        "Search":"Search",
+
+
+        "3.RestaurantDestailScreen":"RestaurantDestailScreen",
+        "RelatedItems":"Related Items",
+        "CHECKOUT":"CHECKOUT",
+        "Item":"Item",
+        "DeliveryTime":"Delivery time",
+
+
+
+        "4.CartScreen":"CartScreen",
+        
+        "ItemTotal":"Item total",
+        "SubTotal":"Sub total",
+        "Delivery":"Delivery",
+        "Tax":"Tax",
+        "Discount":"Discount",
+        "Total":"Total",
+        "AddDeliveryInstruction":"Add Delivery Instruction",
+        "GoToSubSubcription":"Go To Subcription",
+        "Scedule":"Schedule",
+        "OrderNow":"Order Now",
+        "Removeallcart":"Clear Cart",
+        "Subscribe":"Subscribe",
+        
+        "addDescription":"Add description...",
+        "addPromocode":"Add Promocode",
+        "SceduleOrder":"Schedule order",
+        "NetTotal":"Net Total",
+        "VAT":"VAT",
+        "WithoutTax":"Without tax",
+
+
+
+        "5.CartScreen":"CartScreen",
+        
+        "Apply":"Apply",
+        "Applied":"Applied",
+
+        "EnterCouponCode":"Enter Coupon Code",
+
+        "5.PaymentScreen":"PaymentScreen",
+        
+        "YourSaveCards":"YourSaveCards",
+        "Paytm":"Paytm",
+        "PhonePay":"PhonePay",
+        "GooglePay":"GooglePay",
+        "ApplePay":"ApplePay",
+        "Pay":"Pay",
+        "CreditCard":"Credit card",
+        "NameOnCard":"Name on card",
+        "CardNumber":"Card number",
+        "ExpirationDate":"Expiration date",
+        "SecurityCode":"Security code",
+        "ChooseAPaymentMethod":"Choose a payment method",
+        "paymentChooseDiscription":"You will not be change until you review this order on the next page.",
+        "cashOnDelivery":"Cash on delivery",
+        "Proceed":"Proceed",
+
+
+
+
+
+        "6.AddressScreen":"AddressScreen",
+        
+        "Addresss":"Address",
+        "FavAddress":"Fav Address",
+        "AddNewAddress":"Add New Address",
+
+        "7.AddAddress":"AddAddress",
+        
+        "PersonalDetail":"PersonalDetail",
+        "FirstName":"First Name",
+        "LastName":"Last Name",
+        "MobileNumber":"Mobile Number",
+        "Email":"Email",
+        "AddressDetail":"Address Detail",
+        "City":"City",
+        "State":"State",
+        "AppartmentOrOfficeNumber":"Appartment or office number",
+        "PinCode":"Pin Code",
+        "Done":"Done",
+        "HouseNo.":"House No, Street Name",
+        "StreetName":"Street Name",
+        "EnterFullAdress":"Enter full address",
+        "PleaseEnterValidFullAddress":"Please enter valid full address",
+
+
+        "8.Subscription":"Subscription",
+        "Weekly":"Weekly",
+        "Monthly":"Monthly",
+        "Yearly":"Yearly",
+        "SubscribeNow":"Subcribe Now",
+
+        "9.ChangeAdress":"ChangeAdress",
+        
+        "CurrentLocation":"Current Location",
+        "AddToFavourite":"Add To Favourite",
+        "PlaceOrder":"Place Order",
+
+        "10.Header":"Header",
+        "AllRestaurant":"All Restaurant",
+        "Restaurant":"Restaurant",
+        "ProductDetails":"Product Details",
+        "Cart":"Cart",
+        "ChangeAddress":"Change Address",
+        "MyOrder":"My Order",
+        "OrderDetail":"Order Detail",
+        "Payment":"Payment",
+        "Edit":"Edit",
+        "Favourites":"Favourites",
+
+        "10.LoginScreen":"LoginScreen",
+        
+        "Login":"Login",
+        "ChooseYourLanguage":"Choose your language",
+        "PhoneOrEmail":"Phone Or Email",
+        "YourPassword":"Your Password",
+        "ForgotPassword":"Forgot Password?",
+        "LogIn":"Log In",
+        "SignUp":"Sign Up",
+
+        "11.SignUpScreen":"SignUpScreen",
+        "Password":"Password",
+        "ConfirmPassword":"Confirm Password",
+        "SignUpText":"Sign up",
+        "Passwordnotmatch":"Password not match",
+        "Please check inputs":"Please check inputs",
+        "Please enter valid name":"Please enter valid name",
+        "Please enter valid number":"Please enter valid number",
+        "Please enter valid email":"Please enter valid email",
+        "Password must be Alphanumeric and 8 characters long":"Password must be Alphanumeric and 8 characters long",
+
+
+
+
+        "12.OrderDetail":"OrderDetail",
+        "ORDER":"ORDER",
+        "BillDetail":"Bill Detail",
+        "ItemTotald":"Item Total",
+        "Subtotal":"Sub Total",
+        "Deliveryd":"Delivery",
+        "Taxd":"Tax",
+        "Discountd":"Discount",
+        "Totald":"Total",
+        "Home":"Home",
+        "orderIs":"Order is",
+
+        "TrackOrder":" Track order",
+        "ArrivingInSomeMinutes":"prepairing in 30 minutes",
+        "Reorder":"Reorder",
+
+
+
+        "13.paymentDoneScreen":"paymentDoneScreen",
+        "OrderCompletedSuccessfully":"Order completed successfully",
+
+
+        "13.subscriptionScreen":"subscriptionScreen",
+        "daily":"Daily",
+        "weekly":"Weekly",
+        "monthly":"Monthly",
+        "startDate":"Start Date",
+        "endDate":"End Date",
+
+        "13.subscriptionList":"subscriptionList",
+        "subscriptions":"subscriptions",
+
+        "14.showAlert":"showAlert",
+        "doYouWantToLogin":"Do you want to login?",
+        "loginRequired":"Login Required",
+
+        "15.AddressMapScreen" : "AddressMapScreen",
+        "ConfirmLocation":"Confirm Location",
+        "selectDeliveryLocation":  "SELECT DELIVERY LOCATION",
+
+        "16.Buttons":"Buttons",
+        "Add":"Add",
+
+        "17.SearchResultScreen" :"SearchResult",
+        "SearchResult" :"Search Result"
+
+
+
+        
+        
+
+
+
+       
+        
+
+
+        
+        
+
+        
+        
+    }
+    }
