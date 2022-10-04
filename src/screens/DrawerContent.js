@@ -5,7 +5,9 @@ import {
   TouchableWithoutFeedback,
   I18nManager,
   Button,
+  Alert
 } from 'react-native';
+import axios from 'axios';
 import React, {useState, useEffect} from 'react';
 import {
   useTheme,
@@ -51,6 +53,25 @@ export function DrawerContent(props) {
   const paperTheme = useTheme();
 
   const {signOut, toggleTheme} = React.useContext(AuthContext);
+
+  const handleDelete = e => {
+    
+    axios
+      .post('https://www.get-cup.com/company/api/v1/delete_user', {
+        token: token.token.userToken,
+      })
+      .then(function(response) {
+        if(response.data.message == 'Deleted User'){
+          alert('User deleted')
+          signOut();
+        }else{
+          alert('User not deleted plz try again..')
+        }
+        
+        
+      })
+  
+};
 
   return (
     <View style={styles.container}>
@@ -236,7 +257,7 @@ export function DrawerContent(props) {
                 labelStyle={styles.labelStyle}
               />
             </Drawer.Section>
-          ) : (
+          ) : (<>
             <Drawer.Section style={styles.drawerSection}>
               <DrawerItem
                 icon={({color, size}) => (
@@ -252,6 +273,34 @@ export function DrawerContent(props) {
                 labelStyle={styles.labelStyle}
               />
             </Drawer.Section>
+            <Drawer.Section style={styles.drawerSection}>
+            <DrawerItem
+              icon={({color, size}) => (
+                <Image
+                  source={require('../assets/icons/logout.png')}
+                  style={styles.imageStyle}
+                />
+              )}
+              onPress={() => {
+                Alert.alert(
+                  "Delete Account",
+                  "Are you sure you want to delete account permanently?",
+                  [
+                    
+                    {
+                      text: "Confirm",
+                      onPress: () => handleDelete(),
+                      style: "cancel"
+                    },
+                    { text: "Cancel", onPress: () => console.log("OK Pressed") }
+                  ]
+                );
+              }}
+              label={t('Delete Account')}
+              labelStyle={styles.labelStyle}
+            />
+          </Drawer.Section>
+          </>
           )}
         </View>
       </DrawerContentScrollView>

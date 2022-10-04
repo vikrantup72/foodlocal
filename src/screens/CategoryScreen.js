@@ -45,6 +45,7 @@ export default function CategoryScreen(props) {
   const fetchCategoryApi = () => {
     fetchCategory(i18n.language === 'en' ? 'en' : 'ar')
       .then(response => {
+        console.log(response.data.data)
         setData(response.data.data);
         setLoading(true);
       })
